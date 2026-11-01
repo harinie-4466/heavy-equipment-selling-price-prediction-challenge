@@ -1,7 +1,5 @@
 # Heavy Equipment Selling Price Prediction Challenge
 
-**MLP Project 2026 T2**
-
 Explain the data using statistics and predict the selling prices of heavy equipment using classical Machine Learning models.
 
 ## Overview
